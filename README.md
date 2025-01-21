@@ -1,2 +1,2 @@
 # dockerStudies
-A repository for the study of docker
+A repository for the study of docker.
