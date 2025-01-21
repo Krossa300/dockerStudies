@@ -1,5 +1,5 @@
 # Obsidian.md
-.obsidian/
+.obsidian/*
 *.cache
 *.log
 .obsidian/workspace.json
