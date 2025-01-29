@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "cc48620079dbc4aa",
+        "id": "90f644257b7eca5b",
         "type": "tabs",
         "children": [
           {
-            "id": "da13e89c25b16c84",
+            "id": "4d97aefe93183038",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker Login.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker Login"
+              "title": "README"
+            }
+          },
+          {
+            "id": "2555d7f1e06344c1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "h-comandos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for h-comandos"
             }
           },
           {
@@ -112,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "h-comandos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from h-comandos"
             }
           },
           {
@@ -139,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "h-comandos.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of h-comandos"
             }
           }
         ]
@@ -162,9 +173,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da13e89c25b16c84",
+  "active": "2555d7f1e06344c1",
   "lastOpenFiles": [
-    "Docker Login.md",
+    "h-20250121.md",
+    "h-comandos.md",
+    "h-20250124.md",
+    "l-docker login.md",
+    "l-comandos.md",
+    "l-20250121.md",
+    "image.png",
     "README.md"
   ]
 }
